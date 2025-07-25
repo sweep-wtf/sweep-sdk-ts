@@ -112,6 +112,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-- **Sweep Main:** [https://github.com/sweep-labs/sweep](https://github.com/sweep-labs/sweep)
 - **Documentation:** [https://docs.sweep.wtf](https://docs.sweep.wtf)
 - **Website:** [https://sweep.wtf](https://sweep.wtf)
